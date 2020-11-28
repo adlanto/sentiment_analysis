@@ -1,6 +1,7 @@
 # Sentiment Analysis
 
 Ein kleines Notebook zur Sentiment-Analysis, auf deutsch in etwa "Stimmungsanalyse".
+
 Online zum Beispiel schnell zu testen mit: https://app.monkeylearn.com/main/classifiers/cl_pi3C7JiL/
 
 Es werden unterschiedliche Netze mit Keras verglichen und auf dem IMDB-Datensatz evaluiert.
